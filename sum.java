@@ -11,6 +11,7 @@ System.out.print("Enter the second number: ");
 y = sc.nextInt();  
 sum = sum(x, y);  
 System.out.println("The sum of two numbers x and y is: " + sum);  
+System.out.println("The sum of two numbers x and y is: " + sum);  
 }  
 //method that calculates the sum  
 public static int sum(int a, int b)  

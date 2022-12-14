@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class diff {
     public static void main(String[] args) {
 
@@ -28,4 +30,4 @@ public class diff {
     }
     
     }
-}
+
